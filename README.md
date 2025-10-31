@@ -15,9 +15,9 @@ Este repositório contém os scripts desenvolvidos para a **primeira avaliação
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem**: C++
+- **Linguagens**: C++, Java
 - **Paradigma**: Programação Estruturada e Orientação a Objetos
-- **Compilador**: Compatível com GCC/G++ e Falcon
+- **Compilador**: Compatível com GCC/G++, Falcon, JAVAC.
 - **Sistema Operacional**: Windows/Linux
 
 ---
