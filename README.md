@@ -41,3 +41,13 @@ g++ -c pilha.cpp
 g++ -c lista_dupla_completa.cpp
 g++ -o programa main.o pares_recursivos.o lista_recursiva.o lista_encadeada.o pilha.o lista_dupla_completa.o
 ./programa
+```
+
+### ☕ **Compilação com Java:**
+Além de C++ o Java também foi usado para escrever uns códigos, por conta disso segue um pequeno tutorial de como compilar e executar eles. Os scripts em Java podem ser compilados atráves de IDEs como NetBeans, Eclipse, Intellij ou outro da sua preferência, ou pode utilizar os seguintes comandos para compilar manualmente em qualquer terminal, veja este exemplo.
+```bash
+# O comando 'javac' compila um código java
+javac ArvoreAVL.java MainAVL.java
+
+# Depois é criado um arquivo .class do código, use o comando 'java' para executar
+java MainAvl
